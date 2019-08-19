@@ -1,1 +1,1 @@
-# Better-Diamond-MOd
+# Better-Diamond-Mod
