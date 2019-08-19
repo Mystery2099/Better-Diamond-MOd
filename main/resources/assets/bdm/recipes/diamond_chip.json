@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CCC",
+        "CCC",
+        "CCC"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "bdm:diamond_chip"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:diamond",
+        "count": 1
+    }
+}

@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "minecraft:diamond"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "bdm:diamond_chip",
+        "count": 9
+    }
+}

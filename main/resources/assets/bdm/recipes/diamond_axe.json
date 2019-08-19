@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "## ",
+        "#/ ",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "bdm:better_diamond"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "bdm:better_diamond_axe",
+        "count": 1
+    }
+}

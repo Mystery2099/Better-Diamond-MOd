@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "BBB",
+        "B B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "bdm:better_diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bdm:better_diamond_helmet",
+        "count": 1
+    }
+}

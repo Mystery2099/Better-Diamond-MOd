@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "bdm:better_diamond_block"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "bdm:better_diamond",
+        "count": 9
+    }
+}
